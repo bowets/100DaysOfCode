@@ -1,4 +1,12 @@
 # 100DaysOfCode
 Starting a Udemy course ZTM
-# Testing commits
-Am I commiting to the correct branch
+
+# Overview
+I recently completed an online coding bootcamp and earend a Diploma in Full Stack Software Development. However, even though I've learned the basics in the boot camp, I want to continue learning and I've started a Udemy course to build on that foundation. 
+I'll document my learning here day by day that I learn. 
+
+I've chosen the Complete Python Developer Course 2022. I really enjoyed working with python and I see the value in the language beyond just web development. 
+My goal is to gain skills and move my career towards DevOps and Release Management so python will be very valuable going forward. 
+
+# Day 1
+
