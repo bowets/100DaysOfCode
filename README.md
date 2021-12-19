@@ -9,4 +9,20 @@ I've chosen the Complete Python Developer Course 2022. I really enjoyed working 
 My goal is to gain skills and move my career towards DevOps and Release Management so python will be very valuable going forward. 
 
 # Day 1
+Day one is going back to basics. 
 
+## Data Types
+int = integer 
+float 
+bool
+str = string
+list 
+tuple
+set
+dict = dictionary
+
+A data type is a value in python
+It's about storing and modifying information
+
+* Classes
+These are custom types
