@@ -26,3 +26,7 @@ It's about storing and modifying information
 
 * Classes
 These are custom types
+
+* None
+This is a value of nothing or the absence of value.
+
